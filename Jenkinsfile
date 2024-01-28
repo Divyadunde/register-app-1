@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the source code from version control
-                git 'https://github.com/your-username/your-repository.git'
+                git 'https://github.com/Divyadunde/register-app-1.git'
             }
         }
         
